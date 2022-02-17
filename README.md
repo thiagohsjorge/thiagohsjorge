@@ -3,9 +3,9 @@
 ## My Github Stats
 <!-- github-stats -->
 <div align="center">
-  <a href="https://github.com/thiagotexdev">  
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagotexdev&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>   
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagotexdev&layout=compact&langs_count=7&theme=default"/> 
+  <a href="https://github.com/thiagohsjorge">  
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiagohsjorge&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>   
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagohsjorge&layout=compact&langs_count=7&theme=default"/> 
 </div>
 
 ## My Stacks
@@ -67,6 +67,6 @@
 </div>
 
 <!---
-thiagotexdev/thiagotexdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+thiagohsjorge/thiagohsjorge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
