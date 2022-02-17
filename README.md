@@ -1,8 +1,4 @@
-## Thiago H S Jorge - Badger (Texugão (Texuga)) - TexDev
-
-- 👋 Hi, I'm Badger.
-- 👀 Software Developer.
-- 🌱 I always try to be studying, practicing and updating myself.
+## Thiago H S Jorge
 
 ## My Github Stats
 <!-- github-stats -->
@@ -64,7 +60,7 @@
 ## Contact
 <div>   
   <a href="https://www.linkedin.com/in/thiago-j-8b9b25210/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 	
-  <a href = "mailto:thiago.texdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:thiagohsjorgg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/thiagotexdev/thiagotexdev/blob/output/github-contribution-grid-snake.svg)
   
